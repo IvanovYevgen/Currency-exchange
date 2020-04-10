@@ -1,0 +1,39 @@
+header {
+  background: #2acf71;
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
+img {
+  width: 100px;
+  height: 90px;
+}
+
+.img-div {
+  float: left;
+  margin-left: 70px;
+  padding-bottom: 100px;
+  overflow: hidden;
+}
+
+.site-title {
+  padding-left: 200px;
+}
+
+.top-bar {
+  padding: 0px;
+  font-size: 12px;
+  min-height: 40px;
+}
+.main-header {
+  padding: 20px 0 25px;
+}
+
+.site-title {
+  color: #fff;
+  display: inline-block;
+  padding-left: 70px;
+  padding-top: 0;
+}
